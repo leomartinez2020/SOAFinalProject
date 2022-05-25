@@ -3,6 +3,12 @@
 ## Description
 Using Rest Assured test the movie API (https://www.themoviedb.org).
 
+## How to run the tests?
+
+Use the maven command:
+
+`mvn test site`
+
 ## Allure Report Examples
 
 ![Allure Report 1](/assets/allureReportRestApi.png)
